@@ -1,3 +1,3 @@
 # python
-python projects for me
+python projects for AI learning
 
